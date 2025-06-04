@@ -1,4 +1,4 @@
-#Predictive Maintenance – Machine Learning Classifier
+**Predictive Maintenance – Machine Learning Classifier**
 
 
 Overview
@@ -54,6 +54,10 @@ prediction = model.predict(X_new)
 License
 This repository is for educational and demonstration purposes.
 Data source: UCI ML Repository (see above).
+
+Confusion Matrix:
+![image](https://github.com/user-attachments/assets/e7a63b77-ad6f-4ca3-aa52-8ed65bc407ab)
+
 
 Acknowledgments
 Dataset: UCI ML Repository, AI4I 2020 Predictive Maintenance
